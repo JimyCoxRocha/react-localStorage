@@ -1,0 +1,3 @@
+Cosas genéricas (Componente generico).
+Ejem:
+Boton, cards
